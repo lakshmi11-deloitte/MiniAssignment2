@@ -1,0 +1,7 @@
+key,value
+postgres_Login,postgres
+postgres_Database,talendtest
+postgres_Password,lhk11
+postgres_Server,localhost
+postgres_Port,5432
+postgres_Schema,public
