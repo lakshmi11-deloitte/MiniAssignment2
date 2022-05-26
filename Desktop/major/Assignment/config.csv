@@ -1,0 +1,9 @@
+key,value
+postgresConnection_Login,postgres
+postgresConnection_Database,talendtest
+postgresConnection_Password,lhk11
+postgresConnection_Server,localhost
+postgresConnection_Port,5432
+postgresConnection_Schema,public
+inputFile,C:/Users/lharishkumar/Desktop/Assignment/Track3/Assignment/Salesdata.csv
+lookupFile,C:/Users/lharishkumar/Desktop/Assignment/Track3/Assignment/lookup.csv
